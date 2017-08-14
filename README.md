@@ -11,10 +11,3 @@ Where 'SELECT A LOCATION' is one of:
  + nos (for north shore)    
  + nwb (for northwest/merrimack)  
  + sob (for south shore)  
-
-And 'NAME FOR CSV FILE' is one of: 
- + gbs.gigs.csv
- + bmw.gigs.csv
- + nos.gigs.csv
- + nwb.gigs.csv
- + sob.gigs.csv
