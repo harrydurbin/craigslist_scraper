@@ -2,7 +2,7 @@
 
 To run:
 1) cd to craigslist-scraper directory
-2) $ pip install -r requirements.txt 
+2) $ pip install -r requirements.txt (in virtual env)
 3) $ scrapy crawl bostongigs -a location="[SELECT A LOCATION]" -o [NAME FOR CSV FILE]
 
 Where 'SELECT A LOCATION' is one of:   
@@ -12,7 +12,7 @@ Where 'SELECT A LOCATION' is one of:
  + nwb (for northwest/merrimack)  
  + sob (for south shore)  
 
-Where 'NAME FOR CSV FILE' is one of: 
+And 'NAME FOR CSV FILE' is one of: 
  + gbs.gigs.csv
  + bmw.gigs.csv
  + nos.gigs.csv
